@@ -12,10 +12,10 @@ chmod +x gost
 
 {
 "Routes": [
-{"ServeNodes":["tcp://:32380/hk.cf-1.fevers:80","udp://:32380/hk.cf-1.fevers:80"]}
-{"ServeNodes":["tcp://:10306/33.212.69.212:55555","udp://:10306/33.212.69.212:55555"]}
-{"ServeNodes":["tcp://:23112","udp://:23112"],"ChainNodes":["relay+tls://hk.skt.xyz:50186"]}
-{"ServeNodes":["tcp://:10304","udp://:10304"],"ChainNodes":["relay+tls://do.fpx.xyz:80"]}
+{"ServeNodes":["tcp://:30080/hk.cf-1.fevers.cyou:80","udp://:30080/hk.cf-1.fevers.cyou:80"]},
+{"ServeNodes":["tcp://:27866/lessweb.eries.fun:443","udp://:27866/lessweb.eries.fun:443"]},
+{"ServeNodes":["tcp://:23112","udp://:23112"],"ChainNodes":["relay+tls://hk.simongino.xyz:50186"]},
+{"ServeNodes":["tcp://:10304","udp://:10304"],"ChainNodes":["relay+tls://do.simongino.xyz:80"]}
     ]
 }
 
